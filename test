@@ -1,0 +1,1 @@
+sh SumoCollector.sh "-VskipRegistration=true" "-Vephemeral=true" "-Vclobber=true" "-Vsumo.accessid=su0Usw8uC2m5Kj" "-Vsumo.accesskey=KmONxx8hvBFe0PSA5GlPecW3dg9hDQ9fFhCnn1CFXkrUhMlmcHAvtyqS3t3XAqNc" "-Vsources=/home/ltuser/scripts/collector.json" -q
